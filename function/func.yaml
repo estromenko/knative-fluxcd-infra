@@ -1,0 +1,8 @@
+specVersion: 0.36.0
+name: function
+runtime: python
+registry: docker.io/estromenko
+image: docker.io/estromenko/function:1
+created: 2025-11-16T15:44:49.656488457+03:00
+build:
+  builder: pack
